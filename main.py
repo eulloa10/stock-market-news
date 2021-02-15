@@ -11,8 +11,8 @@ COMPANY_NAME = "Tesla Inc"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-target_date = '2021-01-15'
-target_date_prior = '2021-01-14'
+target_date = '2021-02-10'
+target_date_prior = '2021-02-09'
 
 alpha_api_key = os.environ['ALPHA_API_KEY']
 news_api_key = os.environ['NEWS_API_KEY']
